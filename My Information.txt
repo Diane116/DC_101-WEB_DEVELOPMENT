@@ -1,7 +1,8 @@
-Name:
-CYS:
-Course:
-Instructor:
-Age:
-Address:
-Contact Number:
+Name:Diana Rose F. Arabejo 
+CYS:2024-2025
+Course:Bachelor of Science in Computer Science 
+Instructor:Eugene Fortunado
+Age:20
+Gender:Female
+Address:San Nicolas St.,Brgy. Balintawak Lipa City Batangas 
+Contact Number:09486582018
