@@ -1,0 +1,7 @@
+Name:
+CYS:
+Course:
+Instructor:
+Age:
+Address:
+Contact Number:
